@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\bin\Debug\netcoreapp3.1\Ekzamen_1.exe
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\bin\Debug\netcoreapp3.1\Ekzamen_1.deps.json
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\bin\Debug\netcoreapp3.1\Ekzamen_1.runtimeconfig.json
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\bin\Debug\netcoreapp3.1\Ekzamen_1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\bin\Debug\netcoreapp3.1\Ekzamen_1.dll
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\bin\Debug\netcoreapp3.1\Ekzamen_1.pdb
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\obj\Debug\netcoreapp3.1\Ekzamen_1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\obj\Debug\netcoreapp3.1\Ekzamen_1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\obj\Debug\netcoreapp3.1\Ekzamen_1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\obj\Debug\netcoreapp3.1\Ekzamen_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\obj\Debug\netcoreapp3.1\Ekzamen_1.dll
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\obj\Debug\netcoreapp3.1\Ekzamen_1.pdb
+C:\Users\Admin\source\repos\Ekzamen_1\Ekzamen_1\obj\Debug\netcoreapp3.1\Ekzamen_1.genruntimeconfig.cache
